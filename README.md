@@ -1,6 +1,6 @@
 # BoschGitRepos
 
-### About:
+### Summary:
 A solution that fetches all public Bosch.IO repositories on GitHub and lists them into an excel table :) <br>
 
 ### Framework: <br>
