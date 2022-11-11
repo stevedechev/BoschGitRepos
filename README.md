@@ -7,8 +7,8 @@ A solution that fetches all public Bosch.IO repositories on GitHub and lists the
 Spring Boot<br>
 
 ### Dependencies: <br>
-spring-boot-starter-web <br>
-spring-boot-devtools <br>
-org.apache.poi <br>
-com.fasterxml.jackson.core <br>
-com.google.code.gson <br>
+* spring-boot-starter-web <br>
+* spring-boot-devtools <br>
+* org.apache.poi <br>
+* com.fasterxml.jackson.core <br>
+* com.google.code.gson <br>
